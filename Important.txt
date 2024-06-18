@@ -1,0 +1,15 @@
+ui for react native 
+
+1. Universal Headless Components..
+2. RNUI by wix
+3. UI Kitten
+4. Native Wind
+5. Native Base
+6. React-Native Paper
+7. React Native Elements 
+
+On the top of all of these libraries we have TAMAGUI``
+
+
+
+https://www.madeintext.com/menu-symbols/ this is the website for symbols...
